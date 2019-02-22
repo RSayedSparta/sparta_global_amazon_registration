@@ -1,0 +1,15 @@
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\bin\Debug\WPFUserRegistrationSystem.exe.config
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\bin\Debug\WPFUserRegistrationSystem.exe
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\bin\Debug\WPFUserRegistrationSystem.pdb
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\MainWindow.g.cs
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\App.g.cs
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem_MarkupCompile.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem_MarkupCompile.lref
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\MainWindow.baml
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.g.resources
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.Properties.Resources.resources
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.csproj.GenerateResource.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.exe
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.pdb
+C:\Users\Tech-W70a\Engineering26\week6\Day4\WPFUserRegistrationSystemApp\WPFUserRegistrationSystem\WPFUserRegistrationSystem\obj\Debug\WPFUserRegistrationSystem.csprojAssemblyReference.cache
